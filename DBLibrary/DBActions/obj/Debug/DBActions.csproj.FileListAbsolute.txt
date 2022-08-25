@@ -1,0 +1,6 @@
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\bin\Debug\DBActions.dll
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\bin\Debug\DBActions.pdb
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\obj\Debug\DBActions.csproj.AssemblyReference.cache
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\obj\Debug\DBActions.csproj.CoreCompileInputs.cache
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\obj\Debug\DBActions.dll
+C:\Users\Amit pandey\Desktop\test2\consumer_complaints\DBLibrary\DBActions\obj\Debug\DBActions.pdb
